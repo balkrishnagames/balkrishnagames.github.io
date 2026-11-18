@@ -1,0 +1,14 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.balkrishna.cards",
+      "sha256_cert_fingerprints": [
+        "90:7B:15:E5:83:6A:F4:9E:F6:0A:AC:10:0D:27:C1:96:7A:43:E4:DD:F5:8F:B5:55:D9:8D:36:21:4F:B0:F8:6E",
+        "07:ED:88:3C:78:95:90:7A:2E:DC:CE:4D:C3:FE:E0:10:B7:03:CF:7A:E0:80:19:A3:9C:39:66:C7:B0:12:F9:F1",
+        "84:D0:29:91:ED:47:61:25:23:53:75:62:F5:FF:E0:7B:E0:AB:B7:17:AC:97:B1:E4:14:F8:E2:79:F6:4C:45:70"
+      ]
+    }
+  }
+]
